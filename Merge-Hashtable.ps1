@@ -1,4 +1,4 @@
-function Merge-Hashtables {
+function Merge-Hashtable {
     [CmdletBinding()]
     param (
         # Hashtable with default values
