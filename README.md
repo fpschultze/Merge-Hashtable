@@ -11,7 +11,7 @@ Merges two given hashtables and returns the resulting hashtable.
 
 SYNTAX
 
-    Merge-Hashtables [-Default] <hashtable> [-Custom] <hashtable>
+    Merge-Hashtable [-Default] <hashtable> [-Custom] <hashtable>
 
 DESCRIPTION
 
